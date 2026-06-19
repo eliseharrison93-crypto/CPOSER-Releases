@@ -15,9 +15,9 @@
       "automation"
     ],
     "RepoUrl": "https://github.com/Liminal-Plugins/CPOSER-Releases",
-"DownloadLinkInstall": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip",
-"DownloadLinkUpdate": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip",
-"DownloadLinkTesting": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Liminal-Plugins/CPOSER-Releases/releases/download/V0.1.0/latest.zip"
     "IsTestingExclusive": false,
     "LastUpdate": 1781910345
   }
