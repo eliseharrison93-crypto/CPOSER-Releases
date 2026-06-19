@@ -21,4 +21,4 @@ Configure your idle-animation mods under **Associated Mods** in Glamourer:
 
 Add this URL under Dalamud's **Experimental → Custom Plugin Repositories**:
 
-https://raw.githubusercontent.com/eliseharrison93-crypto/CPOSER-Releases/main/pluginmaster.json
+https://raw.githubusercontent.com/Liminal-Plugins/CPOSER-Releases/main/pluginmaster.json
